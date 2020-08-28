@@ -1,4 +1,4 @@
-# CSC 699: A Reproduction of [The Woman Worked as a Babysitter: On Biases in Language Generation - ACL Anthology](https://www.aclweb.org/anthology/D19-1339/)
+# CSC 699: A Reproduction of [The Woman Worked as a Babysitter: On Biases in Language Generation](https://www.aclweb.org/anthology/D19-1339/)
 
 An attempt at replicating a paper in a project inspired by [Noah Smith's NLP course](https://docs.google.com/document/d/1Dd9_VQHXseiroirUI-1rBDS6mJEUHiDQ7ND321O29W8/edit). Intended as a learning exercise, thus mistakes and misconceptions should be assumed to be our own.
 
